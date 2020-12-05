@@ -1,7 +1,7 @@
 name: yarn_count_converter
-description: A new Flutter package.
-version: 0.0.1
-author: Charuka Wijethunga<charukamwijethunga.com>
+description: Yarn Count Converter.
+version: 0.0.2
+author: Charuka Wijethunga
 homepage:
 
 environment:
